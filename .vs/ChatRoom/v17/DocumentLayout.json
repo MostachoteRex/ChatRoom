@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ChatRoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|d:\\chatroom\\chatroom\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|d:\\chatroom\\chatroom\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|d:\\chatroom\\chatroom\\views\\chat\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\views\\chat\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|d:\\chatroom\\chatroom\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|d:\\chatroom\\chatroom\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|d:\\chatroom\\chatroom\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABD1079-F6E0-40C0-8D94-2821DBD6201B}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\ChatRoom\\ChatRoom\\libman.json",
+              "RelativeDocumentMoniker": "ChatRoom\\libman.json",
+              "ToolTip": "D:\\ChatRoom\\ChatRoom\\libman.json",
+              "RelativeToolTip": "ChatRoom\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T23:33:20.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ChatRoom\\ChatRoom\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatRoom\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "D:\\ChatRoom\\ChatRoom\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "ChatRoom\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T23:02:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\ChatRoom\\ChatRoom\\Startup.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\Startup.cs",
+              "ToolTip": "D:\\ChatRoom\\ChatRoom\\Startup.cs",
+              "RelativeToolTip": "ChatRoom\\Startup.cs",
+              "ViewState": "AQIAAB0AAADAzMzMzMwqwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:02:08.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\ChatRoom\\ChatRoom\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\ChatRoom\\ChatRoom\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatRoom\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:02:03.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\ChatRoom\\ChatRoom\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\ChatHub.cs",
+              "ToolTip": "D:\\ChatRoom\\ChatRoom\\ChatHub.cs",
+              "RelativeToolTip": "ChatRoom\\ChatHub.cs",
+              "ViewState": "AQIAAAMAAABgZmZmZmYkwBMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:23:57.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cshtml",
+              "DocumentMoniker": "D:\\ChatRoom\\ChatRoom\\Views\\Chat\\Room.cshtml",
+              "RelativeDocumentMoniker": "ChatRoom\\Views\\Chat\\Room.cshtml",
+              "ToolTip": "D:\\ChatRoom\\ChatRoom\\Views\\Chat\\Room.cshtml",
+              "RelativeToolTip": "ChatRoom\\Views\\Chat\\Room.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T04:58:40.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
